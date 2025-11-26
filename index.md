@@ -56,7 +56,7 @@ Também demonstra meu compromisso com a evolução contínua diante das ameaças
 
 ---
 
-### **Certificações**
+## **Certificações**
 
 ---
 
