@@ -115,7 +115,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](![Certificado Digital](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/digitalcert.png))
 
 
 ### Definition lists can be used with HTML syntax.
