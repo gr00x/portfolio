@@ -31,95 +31,19 @@ Esta metodologia de aprendizado contínuo reflete o compromisso com a excelênci
 
 
 
-
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:Large image
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Certificações
 
+![Certificado Digital](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/digitalcert.png)
+
 **Certified in Cybersecurity (CC) - ISC2**
 A certificação Certified in Cybersecurity (CC) da ISC2 é uma credencial reconhecida internacionalmente que valida conhecimentos fundamentais em segurança da informação. Esta certificação abrange os princípios essenciais de cibersegurança, incluindo controles de segurança, governança de riscos, operações de segurança, controle de acesso e segurança de redes.
 Desenvolvida pela ISC2, organização líder mundial em certificações de segurança cibernética, a CC demonstra competência nos conceitos básicos necessários para atuar profissionalmente na área de proteção de sistemas e dados. A certificação comprova o compromisso com os mais altos padrões éticos da profissão e fornece uma base sólida para o desenvolvimento de carreira em cibersegurança.
 Possuir esta credencial reflete não apenas conhecimento técnico, mas também a adesão ao código de ética profissional da ISC2, reforçando a credibilidade e o comprometimento com a excelência no campo da segurança da informação.
 
-![Certificado Digital](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/digitalcert.png)
+
 
 
