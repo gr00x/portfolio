@@ -8,11 +8,7 @@ Suas principais atividades incluem análise de riscos, testes de penetração (p
 Um profissional em cibersegurança combina conhecimentos técnicos avançados com pensamento estratégico, mantendo-se sempre atualizado sobre as mais recentes ameaças e tecnologias de defesa no cenário digital em constante evolução.
 
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Sobre min
 
@@ -23,7 +19,19 @@ Possuo domínio de frameworks como OWASP, MITRE ATT&CK e NIST Cybersecurity Fram
 Atualmente, estou em preparação para a certificação CompTIA Security+.
 
 
-## Header 2
+# Laboratórios Hands-On
+
+Utilizo ambientes de laboratório hands-on como parte fundamental do desenvolvimento e demonstração das minhas competências práticas em cibersegurança. Esses laboratórios proporcionam cenários realistas que simulam infraestruturas corporativas, permitindo a aplicação de técnicas de análise de vulnerabilidades, testes de penetração e resposta a incidentes em ambientes controlados.
+Por meio dessa abordagem prática, executo avaliações de segurança em sistemas operacionais, aplicações web, redes e bancos de dados, documentando metodologias, ferramentas utilizadas e resultados obtidos. Os laboratórios hands-on não apenas validam conhecimentos teóricos, mas também demonstram a capacidade de identificar, explorar e mitigar vulnerabilidades de forma ética e profissional.
+Esta metodologia de aprendizado contínuo reflete o compromisso com a excelência técnica e a constante atualização frente às tendências e ameaças emergentes no campo da segurança da informação.
+
+[CyberDefenders](./another-page.html).
+
+
+
+
+
+
 
 > This is a blockquote following a header.
 >
@@ -130,3 +138,10 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
