@@ -40,6 +40,21 @@ Possuir esta credencial reflete não apenas conhecimento técnico, mas também a
 
 ![Certificado Digital](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/digitalcert.png)
 
+**Ethical Hacker**
+A Cisco verifica se o ganhador deste selo concluiu com sucesso o curso Ethical Hacker. O titular desta credencial de nível estudantil tem uma ampla compreensão dos requisitos legais e de conformidade e é proficiente na arte de definir o escopo, executar, relatar avaliações de vulnerabilidade e recomendar estratégias de mitigação. O titular concluiu até 34 atividades práticas usando Kali Linux, WebSploit e outras ferramentas.
+
+*Skills*                                                         
+        °Ethical Hacking                                                  °Reporting
+        °Exploiting Applications                                          °Social Engineering 
+        °Exploiting Networks                                              °Vulnerability Scanning 
+        °IoT Security                                                     °Vulnerability Assessment
+        °Penetration Testing                                              °Pentesting Tools
+
+
+
+
+
+
 
 
 
