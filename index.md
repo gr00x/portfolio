@@ -39,7 +39,7 @@ Atualmente, estou em preparação para a certificação **CompTIA Security+**.
 
 ---
 
-### **Laboratórios Hands-On**
+## **Laboratórios Hands-On**
 
 Utilizo laboratórios hands-on como parte essencial do meu desenvolvimento e demonstração de competências práticas em cibersegurança. Esses ambientes simulam infraestruturas reais, permitindo aplicar técnicas de:
 
