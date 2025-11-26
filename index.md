@@ -108,6 +108,9 @@ System And Endpoint Protection
 System And Network Defense
 Windows Security
 Wireless And Mobile Device Attacks
+
+![Certificado Digital – Cisco](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/cisco02.png)
+
 ---
 
 
