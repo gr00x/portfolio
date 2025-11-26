@@ -82,9 +82,9 @@ A Cisco confirma que o titular deste selo concluiu o curso **Ethical Hacker**. E
 
 A Cisco verifica se o ganhador deste selo concluiu com sucesso o Caminho de Carreira de Analista Júnior de Segurança Cibernética na Cisco Networking Academy. Eles entendem técnicas para monitorar e proteger a rede, incluindo firewalls, segurança na nuvem e criptografia, estão familiarizados com alertas de segurança e governança e têm habilidades para realizar avaliações de vulnerabilidades de rede e criar um plano de gerenciamento de riscos, incluindo investigações forenses e planejamento de resposta a incidentes.
 
-Skills
-Access Controls
-Antimalware Protection
+* Skills
+* Access Controls
+* Antimalware Protection
 Application Security
 Cloud Security
 Commom Cyber Threats
