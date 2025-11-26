@@ -21,7 +21,7 @@ Eles combinam conhecimento técnico avançado com pensamento estratégico, mante
 
 ---
 
-### **Sobre mim**
+## **Sobre mim**
 
 Profissional certificado em cibersegurança, graduado em Defesa Cibernética e detentor das certificações **Certified in Cybersecurity (ISC²)** e **Ethical Hacker (Cisco)**.
 Atuo com foco em defesa cibernética, detecção e resposta a incidentes, hardening de ambientes, security assessments, análise de vulnerabilidades e implementação de controles de segurança para proteger infraestruturas críticas e garantir a continuidade dos negócios.
