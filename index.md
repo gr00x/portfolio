@@ -89,7 +89,7 @@ A certificação **Certified in Cybersecurity (CC)**, da ISC2, valida conhecimen
 * Controle de acesso
 * Segurança de redes
 
-Reconhecida internacionalmente, é uma credencial voltada para quem está iniciando na área e quer demonstrar entendimento sólido dos conceitos básicos. Também reforça o compromisso com o código de ética da ISC2 e com boas práticas profissionais.
+Reconhecida internacionalmente, é uma credencial voltada para quem quer demonstrar entendimento sólido dos conceitos. Também reforça o compromisso com o código de ética da ISC2 e com boas práticas profissionais.
 
 ![Certificado Digital – CC](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/digitalcert.png)
 
