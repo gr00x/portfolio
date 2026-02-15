@@ -116,7 +116,7 @@ A Cisco confirma que o titular deste selo concluiu o curso **Ethical Hacker**. E
 
 ![Certificado Digital – Cisco](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/cisco.png)
 
-Aqui está o texto **formatado exatamente no mesmo estilo** das certificações anteriores: limpo, organizado e visualmente consistente.
+
 
 ---
 
